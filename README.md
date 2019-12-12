@@ -1,17 +1,16 @@
-# spacer_translator
+# Spacer Translator
 
-A project for Flutter International hackathon Hack19
 
-### Feature
+### Features
 
-<ul><li>Conversion of Text from any Language to Locale Language</li></ul>
+<ul><li>Conversion of Text from any language to local language</li></ul>
 <p align="center"><img src="images/local.jpeg" width=320></p>
-<ul><li>Conversion of Text to basket Language to basket Language</li></ul>
+<ul><li>Conversion of Text to Basket language</li></ul>
 <p align="center"><img src="images/basket.jpeg" width="240"></p>
 
 ## What is Spacer Translator
 
-Spacer Translator is an app for Traveler or Learner, they can translate from any language to their device Locale language as well as given set of language to given set of language. They can also listen the translated result.
+Spacer Translator is an app for a traveller or learner to translate text from any language to their device's Local language as well as from any given set of languages to any given set of languages. They can also listen the translated result.
 
 ## Contributing
 
